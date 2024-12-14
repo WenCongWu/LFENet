@@ -1,3 +1,3 @@
 # MSFANet
 
-This is a object detection project. 
+This is an object detection project. 
